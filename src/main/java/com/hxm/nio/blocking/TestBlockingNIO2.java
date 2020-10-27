@@ -45,7 +45,6 @@ public class TestBlockingNIO2 {
 				buffer.clear();
 			}
 			
-			
 		} catch (IOException e) {
 			e.printStackTrace();
 		}finally{

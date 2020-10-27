@@ -25,7 +25,7 @@ import org.junit.Test;
  * 
  * 				|--Pipe.SinkChannel
  * 				|--Pipe.SourceChannel
- * 
+ *
  * 
  * 2. 缓冲区（Buffer）：负责数据的存取
  * 

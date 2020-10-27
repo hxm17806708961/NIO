@@ -22,7 +22,6 @@ import java.util.Set;
 import org.junit.Test;
 
 /**
- * 
  * 一、 通道（channel）
  * 		用户目标与原节点的链接，不复制传输，需要配合缓冲区操作
  * 

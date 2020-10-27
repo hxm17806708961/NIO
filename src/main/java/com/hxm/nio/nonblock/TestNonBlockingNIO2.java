@@ -50,7 +50,6 @@ public class TestNonBlockingNIO2 {
 					// TODO Auto-generated catch block
 					e.printStackTrace();
 				}
-				
 			}
 		}
 		

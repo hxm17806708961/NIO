@@ -34,6 +34,7 @@ public class TestPipe {
 			buf.flip();
 			int len = sourceChannel.read(buf);
 			System.out.println(new String(buf.array(), 0, len));
+			
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

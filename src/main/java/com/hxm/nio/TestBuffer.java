@@ -24,7 +24,6 @@ public class TestBuffer {
 	/*
 	 * 进行读取操作前一定先设置	buffer.flip();
 	 * 可重复读数据		buffer.rewind();
-	 * 
 	 */
 	@Test
 	public void test2() {
